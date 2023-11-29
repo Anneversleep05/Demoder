@@ -3,9 +3,11 @@ boolean isAutoTimeEnabled = settings.isAutoTimeEnabled();
 
 if (isAutoTimeEnabled) {
 
-} else {
+// Chạy Code tiếp theo
 
-}
+} else {
 
 Intent enabletime = new Intent(Settings.ACTION_DATE_SETTINGS);
 startActivity(enabletime);
+
+}
