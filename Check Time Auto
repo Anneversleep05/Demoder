@@ -1,0 +1,11 @@
+Settings.Global settings = getSystemService(Settings.Global.class);
+boolean isAutoTimeEnabled = settings.isAutoTimeEnabled();
+
+if (isAutoTimeEnabled) {
+
+} else {
+
+}
+
+Intent enabletime = new Intent(Settings.ACTION_DATE_SETTINGS);
+startActivity(enabletime);
