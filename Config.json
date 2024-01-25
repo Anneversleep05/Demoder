@@ -1,17 +1,17 @@
 [
   {
-    "id":"SZUFR0", "safe":"10", "status":"false"
+    "id":"SZUFR0", "safe":"10", "status":"false", "time":"12:00 20-01-2024"
   },
   {
-    "id":"cExxov", "safe":"30", "status":"true"
+    "id":"cExxov", "safe":"30", "status":"true", "time":"18:30 24-12-2023"
   },
   {
-    "id":"fsowhcp", "safe":"50", "status":"true"
+    "id":"fsowhcp", "safe":"50", "status":"true", "time":"06:00 01-01-2023"
   },
   {
-    "id":"sbnwici", "safe":"70", "status":"false"
+    "id":"sbnwici", "safe":"70", "status":"false", "time":"23:59 31-12-2022"
   },
   {
-    "id":"cyaoq2", "safe":"90", "status":"true"
+    "id":"cyaoq2", "safe":"90", "status":"true", "time":"09:00 10-08-2022"
   }
 ]
