@@ -1,17 +1,17 @@
 [
   {
-    "id":"SZUFR0", "safe":"10"
+    "id":"SZUFR0", "safe":"10", "status":"false"
   },
   {
-    "id":"cExxov", "safe":"30"
+    "id":"cExxov", "safe":"30", "status":"true"
   },
   {
-    "id":"fsowhcp", "safe":"50"
+    "id":"fsowhcp", "safe":"50", "status":"true"
   },
   {
-    "id":"sbnwici", "safe":"70"
+    "id":"sbnwici", "safe":"70", "status":"true"
   },
   {
-    "id":"cyaoq2", "safe":"90"
+    "id":"cyaoq2", "safe":"90", "status":"true"
   }
 ]
