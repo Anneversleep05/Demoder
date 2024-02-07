@@ -9,5 +9,11 @@
     "name":"Xóa nhanh Data Game",
     "icon":"https://play-lh.googleusercontent.com/w3vKIXNlhfpQvEQRqI0yMjEpGVuj72B4nC96fU6A9rBWSvqi5pYzamkD8tpmX93fmpQ=s64-rw",
     "color":"#F29F42"
+  },
+  {
+    "id":"0003",
+    "name":"Đo FPS thời gian thực",
+    "icon":"https://play-lh.googleusercontent.com/Y3U3fbOroMak2ajPx3ZOotLYvNSi1652PkIzWwViMoa9OfveBMkz4IE29zRBhOseVw=s64-rw",
+    "color":"#00C5A4"
   }
 ]
