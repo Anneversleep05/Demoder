@@ -11,7 +11,10 @@
     "title":"Menu Panel phiên bản Monster",
     "sub":"V1.103.7 • Menu • Panel • ",
     "icon":"https://www.vietnamworks.com/hrinsider/wp-content/uploads/2023/12/anh-den-ngau.jpeg",
-    "listImage":"[{\"image\":\"https://youtu.be/aTFeDAGHG5k\"},{\"image\":\"https://hoanghamobile.com/tin-tuc/wp-content/uploads/2023/08/hinh-nen-dien-thoai-anime-2.jpg\"}]"
+    "listImage":[
+      "https://youtu.be/aTFeDAGHG5k",
+      "https://hoanghamobile.com/tin-tuc/wp-content/uploads/2023/08/hinh-nen-dien-thoai-anime-2.jpg"
+    ]
   },
   {
     "id": "0002",
@@ -25,6 +28,10 @@
     "title":"File Regedit Headshot OB43",
     "sub":"V1.103.X • Menu • Regedit • ",
     "icon":"https://thcs-thptlongphu.edu.vn/wp-content/uploads/2023/03/anh-gai-dep-facebook-lam-anh-dai-dien2b252822529.jpg",
-    "listImage":"[{\"image\":\"https://youtu.be/wrUXoP8Lmeg\"},{\"image\":\"https://didongviet.vn/dchannel/wp-content/uploads/2023/08/hinh-nen-3d-hinh-nen-iphone-dep-3d-didongviet-64@2x-576x1024.jpg\"},{\"image\":\"https://phuongtanphuoc.gov.vn/wp/vietnam/anhdepvietnam%20(24).jpg\"},{\"image\":\"https://didongviet.vn/dchannel/wp-content/uploads/2023/08/hinh-nen-3d-hinh-nen-iphone-dep-3d-didongviet@2x-576x1024.jpg\"}]"
+    "listImage":[
+      "https://youtu.be/wrUXoP8Lmeg",
+      "https://didongviet.vn/dchannel/wp-content/uploads/2023/08/hinh-nen-3d-hinh-nen-iphone-dep-3d-didongviet-64@2x-576x1024.jpg",
+      "https://phuongtanphuoc.gov.vn/wp/vietnam/anhdepvietnam%20(24).jpg\"},{\"image\":\"https://didongviet.vn/dchannel/wp-content/uploads/2023/08/hinh-nen-3d-hinh-nen-iphone-dep-3d-didongviet@2x-576x1024.jpg"
+    ]
   }
 ]
