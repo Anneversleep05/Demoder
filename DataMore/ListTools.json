@@ -15,5 +15,11 @@
     "name":"Đo FPS thời gian thực",
     "icon":"https://play-lh.googleusercontent.com/Y3U3fbOroMak2ajPx3ZOotLYvNSi1652PkIzWwViMoa9OfveBMkz4IE29zRBhOseVw=s64-rw",
     "color":"#00C5A4"
+  },
+  {
+    "id":"0004",
+    "name":"Tường lửa VPN",
+    "icon":"https://play-lh.googleusercontent.com/Eo7y02OP6nsOqTx-MsYORxLsIXltk-_0DQUkNztdPUrr_2ZIoR_RgaDXt3y6qrcdIT4=s64-rw",
+    "color":"#3C5BB6"
   }
 ]
