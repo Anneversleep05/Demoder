@@ -1,14 +1,12 @@
 [
   {
-    "sz": "",
-    "ctr": "[{\"ctr\":\"\"},{\"ctr\":\"\"},{\"ctr\":\"\"}]",
-    "a": "",
-    "inf": "",
-    "gm": "",
-    "tag": "",
-    "da": "",
-    "ver": "",
-    "file": "",
-    "url": ""
+    "id": "ffamz",
+    "ctr":"game",
+    "adr":"5",
+    "dt": "[Sự kiện mới - Tết Hỗn Chiến] Bình chọn những tính năng kỳ lạ sẽ xảy ra trong trận đấu, như đường bay thay đổi hay xuất hiện nấm biến đổi gen!n/[Sửa Đảo Thế Kỷ] Điều chỉnh cân bằng và cải thiện hiệu năng bản đồ. Làm lại khu vực Thị Trấn Xưa và bổ sung vào chế độ Tử Chiến.n/[Nhân vật mới - Ryden] Một thần đồng cơ khí với khả năng thả nhện máy làm chậm và gây sát thương liên tục lên kẻ địch.n/[Hiệu ứng thông báo] Nâng cấp hiệu ứng thông báo siêu xịn xò khi có chuỗi hạ gục và headshot.",
+    "gm": "ffa",
+    "dow":"off",
+    "file": "Fire Fire Amazon.apk",
+    "url": "https://example.com"
   }
 ]
