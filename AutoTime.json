@@ -1,7 +1,7 @@
 [
   {
-    "main":"true",
-    "ver":"1.0.1",
+    "main":"false",
+    "ver":"1.0.2",
     "down":"https://www.youtube.com/watch?v=ZCC3ZZhvekc",
     "dt":"1. Fix bug Maintenance old version \n2. Add feature Firewall beta version \n3. Upgrade background Menu support Ram 4GB down"
   },
