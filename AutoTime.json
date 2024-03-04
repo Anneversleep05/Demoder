@@ -1,9 +1,9 @@
 [
   {
-    "main":"true",
-    "ver":"1.0.1",
-    "down":"https://www.youtube.com/watch?v=ZCC3ZZhvekc",
-    "dt":"1. Fix bug Maintenance old version \n2. Add feature Firewall beta version \n3. Upgrade background Menu support Ram 4GB down"
+    "main":"false",
+    "ver":"1.0.2",
+    "down":"https://www.mediafire.com/file/pn7s075009ecz55/Demoder_1.0.2_beta.apk/file",
+    "dt":"1. Sửa lỗi văng ứng dụng khi nhấn Chạy chương trình"
   },
   {
     "url_mock":"https://65118baf829fa0248e40500d.mockapi.io/api/data/mod/v1/",
