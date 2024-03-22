@@ -1,9 +1,9 @@
 [
   {
     "main":"false",
-    "ver":"1.0.2",
-    "down":"https://www.mediafire.com/file/pn7s075009ecz55/Demoder_1.0.2_beta.apk/file",
-    "dt":"1. Sửa lỗi văng ứng dụng khi nhấn Chạy chương trình"
+    "ver":"1.0.3",
+    "down":"https://www.mediafire.com/file/42g4n2cxs4m8mww/Demoder_1.0.3_beta.apk/file",
+    "dt":"1. Bản vá lỗi hệ thống\n2.Thêm tính năng tải xuống File bên ngoài Web"
   },
   {
     "url_mock":"https://65118baf829fa0248e40500d.mockapi.io/api/data/mod/v1/",
