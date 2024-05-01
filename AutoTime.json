@@ -6,6 +6,7 @@
     "dt":"1. Bản vá lỗi hệ thống\n2.Thêm tính năng tải xuống File bên ngoài Web"
   },
   {
+    "admin_mail":"dihaver.studio@gmail.com",
     "url_mock":"https://65118baf829fa0248e40500d.mockapi.io/api/data/mod/v1/",
     "url_mock_upload":"https://66308a0dc92f351c03da2a76.mockapi.io/api/v1/",
     "url_si":"https://script.google.com/macros/s/AKfycbxk0L7ylKN3-4v9MrUBE-dQ6AuCJ3vrI_M2gWLQd5q2ko4rpKfrs-80PYVpkfHnxMo_/exec",
