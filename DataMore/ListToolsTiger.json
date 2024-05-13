@@ -26,5 +26,12 @@
     "icon":"https://play-lh.googleusercontent.com/gmN7w6h4vr8C-Z0hsomy_5kWguSnxqshI-eT8VhjJzzbfbn22OSvRWuo2ZtinyA0IdA=s64-rw",
     "status":"Mp3",
     "color":"#2861D0"
+  },
+  {
+    "id":"0005",
+    "name":"Tường lửa VPN",
+    "icon":"https://play-lh.googleusercontent.com/P-DwiogyNMfkrzXXSinpJBpgtMu9YvdxubuAJVzEXJ6NTa8cpbY8qzYmijf5VaHgBofP=s64-rw",
+    "status":"Beta",
+    "color":"#2861D0"
   }
 ]
