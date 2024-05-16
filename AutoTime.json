@@ -8,8 +8,10 @@
   {
     "admin_mail":"dihaver.studio@gmail.com",
     "url_mock":"https://65118baf829fa0248e40500d.mockapi.io/api/data/mod/v1/",
-    "url_mock_upload":"https://66308a0dc92f351c03da2a76.mockapi.io/api/v1/",
-    "url_si":"https://script.google.com/macros/s/AKfycbxk0L7ylKN3-4v9MrUBE-dQ6AuCJ3vrI_M2gWLQd5q2ko4rpKfrs-80PYVpkfHnxMo_/exec",
+    "url_mock_discover_upload":"https://66308a0dc92f351c03da2a76.mockapi.io/api/v1/Upload",
+    "url_mock_discover_database":"https://6645dd3db8925626f893844c.mockapi.io/api/v1/DataBase",
+    "url_mock_discover_comment":"https://6645de40b8925626f8938800.mockapi.io/api/v1/Comment",
+    "url_script_upload":"https://script.google.com/macros/s/AKfycbxk0L7ylKN3-4v9MrUBE-dQ6AuCJ3vrI_M2gWLQd5q2ko4rpKfrs-80PYVpkfHnxMo_/exec",
     "url_zl":"https://t.me/andemoder",
     "url_tc":"https://help.demoder.pro.vn/p/terms-conditions.html",
     "url_pp":"https://help.demoder.pro.vn/p/privacy-policy.html",
