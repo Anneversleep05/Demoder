@@ -7,7 +7,7 @@
     "menu":"true",
     "android":"5-13",
     "game":"ffa",
-    "path":"",
+    "path":"Android/obb/%s-Android/data/%s/files",
     "title":"Menu OBB đạn ma thuật phiên bản Shark",
     "sub":"V1.104.9 • Menu • OBB • ",
     "icon":"https://i.pinimg.com/564x/4b/6f/b5/4b6fb550bcdd6f014cd5a7a732cecf51.jpg",
