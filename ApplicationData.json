@@ -1,27 +1,27 @@
 [
   {
     "maintenance":"false",
-    "version":"1.1.1",
+    "version":"1.1.2",
     "download":"https://www.mediafire.com/file/42g4n2cxs4m8mww/Demoder_1.0.3_beta.apk/file",
     "detail":"1. Thêm nhiều Config mới đa dạng tính năng\n2. Thay đổi giao diện khám phá hiện đại\n3. Thêm tính năng tải lên Mod\n4. Khắc phục lỗi tải xuống không thành công trên tất cả dòng máy\n5. Thêm công cụ Trạm phát nhạc Browser\n6. Thêm tính năng Quản lí bản Mod của bạn\n7. Cải thiện hiệu suất ứng dụng\n8. Vá lỗi nhỏ trên phiên bản trước"
   },
   {
     "admin_mail":"dihaver.studio@gmail.com",
     
-    "url_mock_config_comment":"https://65118baf829fa0248e40500d.mockapi.io/api/data/mod/v1/",
-    "url_mock_discover_upload":"https://66308a0dc92f351c03da2a76.mockapi.io/api/v1/Upload",
-    "url_mock_discover_view":"https://6645dd3db8925626f893844c.mockapi.io/api/v1/View",
-    "url_mock_discover_detail":"https://6645de40b8925626f8938800.mockapi.io/api/v1/Detail",
-    "url_mock_discover_comment":"https://664619d751e227f23aadc862.mockapi.io/api/v1/Comment",
-    "url_script_upload":"https://script.google.com/macros/s/AKfycbxk0L7ylKN3-4v9MrUBE-dQ6AuCJ3vrI_M2gWLQd5q2ko4rpKfrs-80PYVpkfHnxMo_/exec",
+    "mock_config_comment":"https://65118baf829fa0248e40500d.mockapi.io/api/data/mod/v1/",
+    "mock_discover_upload":"https://66308a0dc92f351c03da2a76.mockapi.io/api/v1/Upload",
+    "mock_discover_view":"https://6645dd3db8925626f893844c.mockapi.io/api/v1/View",
+    "mock_discover_detail":"https://6645de40b8925626f8938800.mockapi.io/api/v1/Detail",
+    "mock_discover_comment":"https://664619d751e227f23aadc862.mockapi.io/api/v1/Comment",
+    "script_upload":"https://script.google.com/macros/s/AKfycbxk0L7ylKN3-4v9MrUBE-dQ6AuCJ3vrI_M2gWLQd5q2ko4rpKfrs-80PYVpkfHnxMo_/exec",
     
-    "url_zalo":"https://t.me/andemoder",
-    "url_terms_condition":"https://help.demoder.pro.vn/p/terms-conditions.html",
-    "url_private_policy":"https://help.demoder.pro.vn/p/privacy-policy.html",
-    "url_pro_terms":"https://help.demoder.pro.vn/p/pro-terms.html",
-    "url_android_13_permission":"https://help.demoder.pro.vn/2024/03/huong-dan-cap-quyen-tren-android-13.html",
-    "url_error_exists_path":"https://help.demoder.pro.vn/2024/03/huong-dan-fix-loi-khong-tim-thay-uong.html",
-    "url_use_browser_music":"https://help.demoder.pro.vn/2024/05/huong-dan-su-dung-tinh-nang-tram-phat.html",
-    "url_upload_file_sever":""
+    "zalo_contacts":"https://t.me/andemoder",
+    "terms_condition":"https://help.demoder.pro.vn/p/terms-conditions.html",
+    "private_policy":"https://help.demoder.pro.vn/p/privacy-policy.html",
+    "pro_terms":"https://help.demoder.pro.vn/p/pro-terms.html",
+    "android_13_permission":"https://help.demoder.pro.vn/2024/03/huong-dan-cap-quyen-tren-android-13.html",
+    "error_exists_path":"https://help.demoder.pro.vn/2024/03/huong-dan-fix-loi-khong-tim-thay-uong.html",
+    "use_browser_music":"https://help.demoder.pro.vn/2024/05/huong-dan-su-dung-tinh-nang-tram-phat.html",
+    "upload_file_sever":""
   }
 ]
