@@ -7,6 +7,7 @@
     "menu":"true",
     "android":"6-13",
     "game":"ffa",
+    "source":"shark/custom",
     "path":"Android/obb/%s",
     "title":"Menu OBB Regedit Headshot ver Shark",
     "sub":"V1.104.10 • Menu • OBB • ",
