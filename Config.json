@@ -9,7 +9,7 @@
     "android":"6-13",
     "game":"ffn",
     
-    "source":"/skin/v1/test.zip",
+    "source":"/skinV1/test.zip",
     "size":"639976",
     "url":"https://www.mediafire.com/file/iiwu6f0ywstmb6v/test.zip/file",
     "path":"Android/data/%s/files-Android/data/%s/cache",
