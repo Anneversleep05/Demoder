@@ -1,10 +1,10 @@
 [
   {
     "maintenance": false,
-    "versionCode": 6,
-    "versionName":"1.2.1 beta",
-    "download": "https://www.mediafire.com/file/e3k8bkkruzyfpv7/Demoder_1.2.1_beta.apk/file",
-    "detail": "1. Thêm Config mới đa dạng tính năng\n2. Cải thiện hiệu suất ứng dụng\n3. Thêm tính năng kết thúc Config trên thông báo\n4. Khắc phục lỗi mở tệp bị hỏng\n5. Vá các lỗi nhỏ trên các phiên bản trước"
+    "versionCode": 8,
+    "versionName":"1.2.3 beta",
+    "download": "https://www.mediafire.com/file/zrf3qm0s2mn68jt/Demoder_1.2.3_beta.apk/file",
+    "detail": "1. Bản vá lỗi tính năng\n2. Sửa lỗi không mở được menu trên một số dòng máy"
   },
   {
     "home": false,
