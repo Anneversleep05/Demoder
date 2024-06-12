@@ -1,10 +1,10 @@
 [
   {
     "maintenance": false,
-    "versionCode": 11,
-    "versionName":"1.2.6 beta",
-    "download": "https://www.mediafire.com/file/d9c2nevg6b54z4l/Demoder_1.2.6_beta.apk/file",
-    "detail": "1. Loại bỏ nhập mã kích hoạt\n2. Bản vá hệ thống"
+    "versionCode": 12,
+    "versionName":"1.2.7 beta",
+    "download": "https://www.mediafire.com/file/uhsx3sh9y1qsus6/Demoder_1.2.7_beta.apk/file",
+    "detail": "1. Thêm Config mới\n2. Thêm tính năng cảnh báo VPN Active\n3. Sửa lỗi bình luận null trên một số thiết bị\n4. Cải thiện tốc độ tải xuống dữ liệu Config"
   },
   {
     "home": false,
