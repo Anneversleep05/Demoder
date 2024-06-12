@@ -7,7 +7,7 @@
     "detail": "1. Thêm Config mới\n2. Thêm tính năng cảnh báo VPN Active\n3. Sửa lỗi bình luận null trên một số thiết bị\n4. Cải thiện tốc độ tải xuống dữ liệu Config"
   },
   {
-    "home": false,
+    "home": true,
     "discover": false,
     "tools": false,
     "profile": false
