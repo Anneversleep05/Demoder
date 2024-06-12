@@ -27,15 +27,15 @@
     "menu": "true",
     "android": "6-14",
     "game": "ffn",
-    "source": "/dragon/Regedit-Wall-Yellow-11001110.obb",
+    "source": "/dragon/Regedit-Magic-Wall-White-11010011.obb",
     "size": "336005323",
-    "url": "https://www.mediafire.com/file/t51itxozjczbun9/Regedit-Wall-Yellow-11001110.obb/file",
+    "url": "https://www.mediafire.com/file/iyfc3d75q1nkgb4/Regedit-Magic-Wall-White-11010011.obb/file",
     "path": "Android/obb/%s",
     "vpn": "NextDNS-49cc93",
-    "title": "Menu OBB Regedit 1.0 & Đạn Ma Thuật ver Dragon",
+    "title": "Menu OBB Regedit 1.0 & Đạn Ma Thuật 2.0 ver Dragon",
     "sub": "V1.104.X • Menu • OBB • ",
     "icon": "https://i.pinimg.com/564x/d8/94/59/d89459297fc432032b0198d98829ac59.jpg",
-    "listImage": "[{\"image\":\"https://youtu.be/obPAbCX-6Fg\"},{\"image\":\"https://i.ibb.co/frQRmBs/IMG-20240608-192835.webp\"},{\"image\":\"https://i.ibb.co/f2W6yQZ/IMG-20240608-192234-min.webp\"}]"
+    "listImage": "[{\"image\":\"https://youtu.be/obPAbCX-6Fg\"},{\"image\":\"\"},{\"image\":\"\"}]"
   },
   {
     "id": "0003",
