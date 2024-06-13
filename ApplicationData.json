@@ -7,7 +7,7 @@
     "detail": "1. Bản vá lỗi quyền ghi đường dẫn Android 11-14\n2. Tăng hiệu suất ứng dụng"
   },
   {
-    "home": false,
+    "home": true,
     "discover": false,
     "tools": false,
     "profile": false
