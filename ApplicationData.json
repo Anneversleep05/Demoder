@@ -1,13 +1,13 @@
 [
   {
     "maintenance": false,
-    "versionCode": 13,
-    "versionName":"1.2.8 beta",
-    "download": "https://www.mediafire.com/file/zdalfgnmoitf0dt/Demoder_1.2.8_beta.apk/file",
-    "detail": "1. Bản vá lỗi quyền ghi đường dẫn Android 11-14\n2. Tăng hiệu suất ứng dụng"
+    "versionCode": 14,
+    "versionName":"1.2.9 beta",
+    "download": "https://www.mediafire.com/file/2hjeui19ddr0jnp/Demoder_1.2.9_beta.apk/file",
+    "detail": "1. Vá lỗi văng ứng dụng\n2. Vá lỗi cấp quyền Android 13-14"
   },
   {
-    "home": true,
+    "home": false,
     "discover": false,
     "tools": false,
     "profile": false
