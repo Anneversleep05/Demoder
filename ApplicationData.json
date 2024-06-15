@@ -1,10 +1,10 @@
 [
   {
     "maintenance": false,
-    "versionCode": 14,
-    "versionName":"1.2.9 beta",
-    "download": "https://www.mediafire.com/file/2hjeui19ddr0jnp/Demoder_1.2.9_beta.apk/file",
-    "detail": "1. Vá lỗi văng ứng dụng\n2. Vá lỗi cấp quyền Android 13-14"
+    "versionCode": 15,
+    "versionName":"1.2.10 beta",
+    "download": "https://www.mediafire.com/file/f16cysa8zx0d39z/Demoder_1.2.10_beta.apk/file",
+    "detail": "1. Hỗ trợ tất cả các phiên bản Obb 86,64,32,v.v..\n2. Bản vá một số lỗi"
   },
   {
     "home": false,
