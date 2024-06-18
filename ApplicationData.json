@@ -1,10 +1,10 @@
 [
   {
     "maintenance": false,
-    "versionCode": 15,
-    "versionName":"1.2.10 beta",
-    "download": "https://www.mediafire.com/file/f16cysa8zx0d39z/Demoder_1.2.10_beta.apk/file",
-    "detail": "1. Hỗ trợ tất cả các phiên bản Obb 86,64,32,v.v..\n2. Bản vá một số lỗi"
+    "versionCode": 16,
+    "versionName":"1.2.11 beta",
+    "download": "https://www.mediafire.com/file/zatqldowos8edp5/Demoder_1.2.11_beta.apk/file",
+    "detail": "1. Thêm Config mới\n2. Android 9 trở xuống không cần cấp quyền ghi đường dẫn\n3. Bản vá một số lỗi hệ thống"
   },
   {
     "home": false,
