@@ -15,7 +15,7 @@
     "id":"0003",
     "name":"Tự động xóa File Proguard Game",
     "icon":"https://play-lh.googleusercontent.com/p1Nv137eJZn2eFvycXGDqqzaLZrkNR4Wxuyh92c2KWHhH_xO9WXHd5sNkEJICLi3Fw=s64-rw",
-    "status":"Beta"
+    "status":""
   },
   {
     "id":"0004",
@@ -25,8 +25,8 @@
   },
   {
     "id":"0005",
-    "name":"Tường lửa VPN",
-    "icon":"https://play-lh.googleusercontent.com/vRY1QQDlY6B97NfuUIU4wPFT6ZISJ1OPcKgIvvk6VCcvgAnDRm8_mDPkeFdpd7Vc3W0=s64-rw",
+    "name":"Demoder VPN",
+    "icon":"https://play-lh.googleusercontent.com/Vu3XXrmoeeUrWyqY1hJ8gDcQymIa9ofLl88Nuy40WutC_JA8W8duEaI-wqr37AtL1A=s64-rw",
     "status":"Beta"
   }
 ]
