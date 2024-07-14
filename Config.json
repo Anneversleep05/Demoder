@@ -28,7 +28,7 @@
     "source": "/test/test.zip",
     "size": "287178",
     "url": "https://www.mediafire.com/file/ridhac4ock8xs5b/test.zip/file",
-    "path": "Android/data/%s-Android/obb/%s",
+    "path": "Android/data/%s",
     "vpn": "Demoder VPN",
     "title": "Menu OBB Đạn Ma Thuật & Người Trắng ver Phoenix",
     "sub": "V1.104.X • Menu • OBB • ",
