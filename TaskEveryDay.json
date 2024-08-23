@@ -1,11 +1,6 @@
 {
-  "ACTIVE": true,
-  "BLOG": "https://help.demoder.pro.vn/2024/03/toi-khong-lay-ma-kich-hoat.html",
-  "VIDEO": "https://youtu.be/k27me9-T2PE",
-  "URL":
-  [
-    "https://anvippro05.github.io/task/",
-    "https://yeumoney.com/Ra6OIv",
-    "https://8link.vip/eTGDqBJJs"
-  ]
+  "is_active": true,
+  "url_guide_error": "https://help.demoder.pro.vn/2024/03/toi-khong-lay-ma-kich-hoat.html",
+  "url_guide_video": "https://youtu.be/k27me9-T2PE",
+  "list_task_day":"[\"https://anvippro05.github.io/task/\",\"https://yeumoney.com/Ra6OIv\",\"https://8link.vip/eTGDqBJJs\"]"
 }
