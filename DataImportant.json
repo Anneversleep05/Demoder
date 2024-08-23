@@ -1,0 +1,25 @@
+{
+    "is_maintenance_home": false,
+    "is_maintenance_tools": false,
+    "is_maintenance_profile": false,
+
+    "update_version_code": 22,
+    "update_version_name": "V.1.4.3",
+    "update_detail": "1. Đưa Menu vào dạng chạy nền hỗ trợ tất cả máy RAM yếu ✨\n2. Vá một số lỗi bảo mật hệ thống ❤️",
+    "update_url": "https://www.mediafire.com/file/hooaloe1cmykmok/Demoder+1.4.3.apk/file",
+    "update_file_name": "Demoder 1.4.3.apk",
+    "update_file_size": "5715430",
+
+    "admin_uid": "",
+    "admin_contact": "https://t.me/andemoder",
+    "url_terms_condition": "https://help.demoder.pro.vn/p/terms-conditions.html",
+    "url_privacy_policy": "https://help.demoder.pro.vn/p/privacy-policy.html",
+    "url_pro_terms": "https://help.demoder.pro.vn/p/pro-terms.html",
+    "url_permission_saf": "https://help.demoder.pro.vn/2024/03/huong-dan-cap-quyen-tren-android-13.html",
+    "url_permission_shizuku": "https://help.demoder.pro.vn/2024/06/huong-dan-cap-quyen-shizuku-tren.html",
+    "url_error_exist_path": "https://help.demoder.pro.vn/2024/03/huong-dan-fix-loi-khong-tim-thay-uong.html",
+    "url_use_browser_music": "https://help.demoder.pro.vn/2024/05/huong-dan-su-dung-tinh-nang-tram-phat.html",
+    "url_use_demoder_vpn": "https://help.demoder.pro.vn/2024/08/huong-dan-su-dung-demoder-vpn.html",
+    "id_vpn_normal": "219848",
+    "id_vpn_pro": "161d3f"
+}
