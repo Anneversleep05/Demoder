@@ -12,7 +12,7 @@
           "update_time": "00:00:00 14-08-2024",
           "download_url": "https://www.mediafire.com/file/azxt9j0t7q48e0a/83719364018382919301.zip/file",
           "file_name": "83719364018382919301.zip",
-          "file_size": "126579836",
+          "file_size": 126579836,
           "source_path": "/Owl",
           "target_path": "Android/data/%s",
           "has_vpn": "Demoder VPN"
@@ -30,7 +30,7 @@
           "update_time": "00:00:00 08-08-2024",
           "download_url": "https://www.mediafire.com/file/4n0zmwc5spd2yy5/010b439235a70f3499d245f8a081ce4f.resource/file",
           "file_name": "010b439235a70f3499d245f8a081ce4f.resource",
-          "file_size": "2334",
+          "file_size": 2334,
           "source_path": "/Lion",
           "target_path": "Android/obb/%s",
           "has_vpn": "Demoder VPN"
@@ -48,7 +48,7 @@
           "update_time": "17:00:00 01-08-2024",
           "download_url": "https://www.mediafire.com/file/s6n1cycui0arv4d/04575e7f55b1eb84cb8e30d79cd53ac5.zip/file",
           "file_name": "04575e7f55b1eb84cb8e30d79cd53ac5.zip",
-          "file_size": "94676146",
+          "file_size": 94676146,
           "source_path": "/Dino",
           "target_path": "Android/data/%s",
           "has_vpn": "Demoder VPN"
