@@ -27,7 +27,7 @@
           "config_list_image": ["https://youtu.be/rk1DhPh-0GM"],
           "game_support": "ffn",
           "is_pro": false,
-          "is_active": true,
+          "is_active": false,
           "has_menu": true,
           "antiban_level": 60,
           "update_time": "00:00:00 08-08-2024",
