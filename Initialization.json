@@ -1,6 +1,6 @@
 {
     "is_active_task_day": false,
-    "is_active_ads": false,
+    "is_active_ads": true,
     
     "is_maintenance_home": false,
     "is_maintenance_tools": false,
