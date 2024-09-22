@@ -4,6 +4,7 @@
     
     "is_maintenance_home": false,
     "is_maintenance_tools": false,
+    "is_maintenance_firewall": false,
     "is_maintenance_profile": false,
 
     "update_version_code": 22,
@@ -22,7 +23,5 @@
     "url_permission_shizuku": "https://help.demoder.pro.vn/2024/06/huong-dan-cap-quyen-shizuku-tren.html",
     "url_error_exist_path": "https://help.demoder.pro.vn/2024/03/huong-dan-fix-loi-khong-tim-thay-uong.html",
     "url_use_browser_music": "https://help.demoder.pro.vn/2024/05/huong-dan-su-dung-tinh-nang-tram-phat.html",
-    "url_use_demoder_vpn": "https://help.demoder.pro.vn/2024/08/huong-dan-su-dung-demoder-vpn.html",
-    "id_vpn_normal": "219848",
-    "id_vpn_pro": "161d3f"
+    "url_use_demoder_vpn": "https://help.demoder.pro.vn/2024/08/huong-dan-su-dung-demoder-vpn.html"
 }
