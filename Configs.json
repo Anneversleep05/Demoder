@@ -1,6 +1,6 @@
 [
      {
-          "id": "0010",
+          "id": "0011",
           "config_title": "[System] Panel Regedit System ver Dragon",
           "config_subtitle": "5.0 (25) • Panel - System",
           "config_icon": "https://i.pinimg.com/564x/41/38/18/413818b4327bf2361643eb59bb31f2d5.jpg",
@@ -19,6 +19,27 @@
           "source_path": "/Dragon",
           "target_path": "Android/data/%s",
           "has_vpn": ""
+     },
+     {
+          "id": "0010",
+          "config_title": "[Data] Menu Định Vị Người Xanh ver Bear",
+          "config_subtitle": "5.0 (25) • Menu - Data",
+          "config_icon": "",
+          "config_guide": "a-EkxCp3iEs",
+          "config_list_image": ["gNIeiWA3eOw", "https://i.pinimg.com/564x/1e/41/5b/1e415b541c20ac7e1b2a6678e3d2a2ee.jpg", "https://i.pinimg.com/474x/3c/0c/24/3c0c24451b3ec36e71ac17bbed2c8472.jpg", "https://i.pinimg.com/564x/98/85/44/988544262c6f18fa7d4b47e875355230.jpg"],
+          "game_support": "ffn-ffa",
+          "is_pro": false,
+          "is_active": true,
+          "has_menu": true,
+          "antiban_level": 80,
+          "update_time": "00:00:00 03/10/2024",
+          "download_url": "https://www.mediafire.com/file/s6n1cycui0arv4d/04575e7f55b1eb84cb8e30d79cd53ac5.zip/file",
+          "file_name": "04575e7f55b1eb84cb8e30d79cd53ac5.zip",
+          "file_size": 94676146,
+          "file_list_name": [],
+          "source_path": "/Bear",
+          "target_path": "Android/data/%s",
+          "has_vpn": "Demoder VPN"
      },
      {
           "id": "0009",
