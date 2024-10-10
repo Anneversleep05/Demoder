@@ -18,7 +18,8 @@
           "file_list_name": [],
           "source_path": "",
           "target_path": "",
-          "has_vpn": "0"
+          "has_vpn": "",
+          "add_permission": "VPN"
      },
      {
           "id": "0011",
@@ -39,7 +40,8 @@
           "file_list_name": [],
           "source_path": "/Dragon",
           "target_path": "Android/data/%s",
-          "has_vpn": ""
+          "has_vpn": "",
+          "add_permission": ""
      },
      {
           "id": "0010",
@@ -60,7 +62,8 @@
           "file_list_name": [],
           "source_path": "/Bear",
           "target_path": "Android/data/%s",
-          "has_vpn": "Demoder VPN"
+          "has_vpn": "Demoder VPN",
+          "add_permission": ""
      },
       {
           "id": "0009",
@@ -81,7 +84,8 @@
           "file_list_name": [],
           "source_path": "/Owl",
           "target_path": "Android/data/%s",
-          "has_vpn": "Demoder VPN"
+          "has_vpn": "Demoder VPN",
+          "add_permission": ""
      },
      {
           "id": "0008",
@@ -102,6 +106,7 @@
           "file_list_name": ["config.1", "config.2", "config.3"],
           "source_path": "/Lion",
           "target_path": "Android/obb/%s",
-          "has_vpn": "Demoder VPN"
+          "has_vpn": "Demoder VPN",
+          "add_permission": ""
      }
 ]
