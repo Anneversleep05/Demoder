@@ -78,7 +78,7 @@
           "config_list_image": ["rk1DhPh-0GM", "https://i.imgur.com/TB2661M.jpeg"],
           "game_support": "ffn",
           "is_pro": false,
-          "is_active": false,
+          "is_active": true,
           "has_menu": true,
           "antiban_level": 80,
           "update_time": "00:00:00 14/08/2024",
