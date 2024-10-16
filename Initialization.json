@@ -1,5 +1,5 @@
 {
-    "is_active_task_day": true,
+    "is_active_task_day": false,
     "is_active_ads": false,
     
     "is_maintenance_home": false,
@@ -7,9 +7,9 @@
     "is_maintenance_firewall": false,
     "is_maintenance_other": false,
 
-    "update_version_code": 28,
-    "update_version_name": "V.1.4.5",
-    "update_url": "https://www.mediafire.com/file/hooaloe1cmykmok/Demoder+1.4.3.apk/file",
+    "update_version_code": 31,
+    "update_version_name": "V.2.0.3",
+    "update_url": "https://www.mediafire.com/file/t8az81ifkialb2c/FayFay_Config_2.0.3.apk/file",
 
     "api_list_user_pro": "https://6645de40b8925626f8938800.mockapi.io/api/v1/user_pro",
     "api_list_key_pro": "https://6645de40b8925626f8938800.mockapi.io/api/v1/key_pro",
