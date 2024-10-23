@@ -1,5 +1,18 @@
 {
   "url_guide_video": "https://youtu.be/k27me9-T2PE",
   "url_target": "https://anvippro05.github.io/task",
-  "list_task_day": ["https://yeumoney.com/Ra6OIv", "https://8link.vip/eTGDqBJJs", "https://my.trafficuser.net/Rg8aT"]
+  "list_task_day": [
+    {
+      "title_task": "Lấy mã Yeumoney",
+      "url_task": "https://yeumoney.com/Ra6OIv"
+    },
+    {
+      "title_task": "Lấy mã 8link",
+      "url_task": "https://8link.vip/eTGDqBJJs"
+    },
+    {
+      "title_task": "Lấy mã Trafficuser",
+      "url_task": "https://my.trafficuser.net/Rg8aT"
+    }
+  ]
 }
