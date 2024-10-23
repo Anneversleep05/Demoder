@@ -1,0 +1,35 @@
+{
+    "is_active_ads": false,
+    "is_active_gifts": true,
+    "is_active_task_day": true,
+    
+    "is_maintenance_home": false,
+    "is_maintenance_tools": false,
+    "is_maintenance_firewall": false,
+    "is_maintenance_other": false,
+
+    "update_time": "18/10/2024",
+    "update_version_code": 32,
+    "update_version_name": "V.2.0.4",
+    "update_url": "https://www.mediafire.com/file/x2ro12o149z8nbm/FayFay_Config_2.0.4.apk/file",
+
+    "api_list_user_pro": "https://6645de40b8925626f8938800.mockapi.io/api/v1/user_pro",
+    "api_list_key_pro": "https://6645de40b8925626f8938800.mockapi.io/api/v1/key_pro",
+
+    "admin_uid": "NTpv7MXAsEhdCHPucvBiACIKsgx2",
+    "admin_contact": "https://t.me/dihaver",
+
+    "url_tasks_day": "https://dihaver.github.io/tasks",
+    "url_tasks_day_complete": "https://anvippro05.github.io/task",
+    "url_terms_condition": "https://fayfay-config.blogspot.com/p/terms-and-conditions.html",
+    "url_privacy_policy": "https://fayfay-config.blogspot.com/p/privacy-policy_17.html",
+    "url_permission_saf": "https://fayfay-config.blogspot.com/2024/03/huong-dan-cap-quyen-tren-android-13.html",
+    "url_permission_shizuku": "https://fayfay-config.blogspot.com/2024/06/huong-dan-cap-quyen-shizuku-tren.html",
+    "url_error_exist_path": "https://fayfay-config.blogspot.com/2024/03/huong-dan-fix-loi-khong-tim-thay-uong.html",
+    "url_use_browser_music": "https://fayfay-config.blogspot.com/2024/05/huong-dan-su-dung-tinh-nang-tram-phat.html",
+    "url_use_demoder_vpn": "https://fayfay-config.blogspot.com/2024/08/huong-dan-su-dung-demoder-vpn.html",
+
+    "firewall_id_wall": "3c3c14",
+    "firewall_id_wall_plus": "3adeac",
+    "firewall_id_test": "1955b7"
+}
