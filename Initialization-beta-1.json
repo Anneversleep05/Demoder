@@ -1,6 +1,6 @@
 {
     "is_active_ads": false,
-    "is_active_gifts": true,
+    "is_active_gifts": false,
     "is_active_task_day": true,
     
     "is_maintenance_home": false,
