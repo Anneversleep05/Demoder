@@ -24,7 +24,7 @@
     "file_list_name": [],
     "source_path": "/Panther",
     "target_path": "Android/data/%s",
-    "has_vpn": "Demoder VPN",
+    "has_vpn": "",
     "add_permission": ""
   },
   {
