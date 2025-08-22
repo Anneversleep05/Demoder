@@ -8,10 +8,10 @@
     "is_maintenance_firewall": true,
     "is_maintenance_other": false,
 
-    "update_time": "24/10/2024",
-    "update_version_code": 34,
-    "update_version_name": "V.2.0.6",
-    "update_url": "https://www.mediafire.com/file/yvhb0klcbwd0cfl/FayFay+Config+2.0.6.apk/file",
+    "update_time": "23/08/2025",
+    "update_version_code": 35,
+    "update_version_name": "V.1.0.0",
+    "update_url": "https://playping.dihaver.tech/",
 
     "api_list_user_pro": "https://6645de40b8925626f8938800.mockapi.io/api/v1/user_pro",
     "api_list_key_pro": "https://6645de40b8925626f8938800.mockapi.io/api/v1/key_pro",
